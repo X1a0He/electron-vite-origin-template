@@ -4,7 +4,8 @@
 This template should help get you started developing with Vue 3, Vite, Pinia, Vue Router and TypeScript in Electron.<br>
 此模板将帮助你开始在Electron 21中使用Vue 3、Vite 3、Pinia 2、Vue Router4 和TypeScript进行开发  
 
-**纯个人食用，喜欢请star**
+**纯个人食用，喜欢请star**  
+**仅模版，其他请自行解决**
 
 ## Features
 📦 开箱即用 (Out of the box)  
